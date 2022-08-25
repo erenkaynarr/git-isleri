@@ -1,0 +1,105 @@
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\erenos01\Desktop\am\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erenos01\Desktop\am\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\erenos01\Desktop\Projeler ve odevler\DGAkademi\Backend\W01\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\erenos01\Desktop\git profil\git-isleri\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
