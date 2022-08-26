@@ -1,0 +1,10 @@
+1-projemi daha rahat incelemeniz icin swagger icine authorization yapacaginiz yani icine jwt tokeni koyacagiz yer ekledim(sag ustte)
+	bu sayede postman kullanmadan swaggerdan tum islemleri yapabilirsiniz
+2-login sistemi en asagidadir login icin (bilgiler respository icinde bulunabilir):
+	1.tip giris : dgpays_admin  //   MyPass_w0rd   --full yetki
+	2.tip giris : dgpays_second  //   MyPass_w0rd   --yemek,musteri,personel
+	3.tip giris : dgpays_standard  //   MyPass_w0rd   --personel
+
+yetkileri bulunmaktadir.
+3-post metodu ile yeni veri gireceginiz zaman id kismini 0 olarak birakiniz database otomatik id atamasi yapiyor
+4-rolebased adli sql database script haline getirip github w02 altina yukledim
